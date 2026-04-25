@@ -308,22 +308,80 @@
   font-weight: 600;
 }
 
-.downloadBtn {
-  display: inline-block;
-  padding: 14px 32px;
-  background: linear-gradient(135deg, var(--fdc-primary) 0%, var(--fdc-primary-dark) 100%);
-  color: white;
-  text-decoration: none;
-  border-radius: var(--fdc-radius);
-  font-weight: 700;
-  font-size: 1rem;
-  transition: transform 0.15s, box-shadow 0.2s;
-  box-shadow: 0 4px 14px rgba(0, 160, 227, 0.3);
+.botSection {
+  margin-bottom: 24px;
+  padding: 24px;
+  background: var(--fdc-primary-light);
+  border-radius: 16px;
 }
 
-.downloadBtn:hover {
+.botTitle {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--fdc-text);
+  margin-bottom: 8px;
+}
+
+.botDescription {
+  font-size: 0.875rem;
+  color: var(--fdc-text-light);
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+.botButtons {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.botBtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 14px 24px;
+  border-radius: var(--fdc-radius);
+  font-size: 1rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: white;
+  transition: transform 0.15s, box-shadow 0.2s;
+}
+
+.botBtn:hover {
   transform: translateY(-1px);
-  box-shadow: 0 6px 20px rgba(0, 160, 227, 0.4);
+}
+
+.botBtnWhatsapp {
+  background: linear-gradient(135deg, #25d366 0%, #128c7e 100%);
+  box-shadow: 0 4px 14px rgba(37, 211, 102, 0.3);
+}
+
+.botBtnWhatsapp:hover {
+  box-shadow: 0 6px 20px rgba(37, 211, 102, 0.4);
+}
+
+.botBtnTelegram {
+  background: linear-gradient(135deg, #0088cc 0%, #005f8c 100%);
+  box-shadow: 0 4px 14px rgba(0, 136, 204, 0.3);
+}
+
+.botBtnTelegram:hover {
+  box-shadow: 0 6px 20px rgba(0, 136, 204, 0.4);
+}
+
+.accountInfo {
+  padding: 16px;
+  background: #f7fafc;
+  border-radius: var(--fdc-radius);
+  border: 1px solid var(--fdc-border);
+}
+
+.accountInfoText {
+  font-size: 0.85rem;
+  color: var(--fdc-text-light);
+  text-align: center;
 }
 
 /* Responsive */
