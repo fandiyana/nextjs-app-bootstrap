@@ -1,3 +1,4 @@
+import { hashPassword } from "./password";
 import {
   Angsuran,
   JenisSimpanan,
@@ -21,14 +22,14 @@ function seed(): Store {
     {
       id: "u-admin",
       username: "admin",
-      password: "admin123",
+      password: hashPassword("admin123"),
       nama: "Pengurus Koperasi",
       role: "pengurus",
     },
     {
       id: "u-budi",
       username: "budi",
-      password: "budi123",
+      password: hashPassword("budi123"),
       nama: "Budi Santoso",
       role: "anggota",
       nomorAnggota: "A-0001",
@@ -39,7 +40,7 @@ function seed(): Store {
     {
       id: "u-siti",
       username: "siti",
-      password: "siti123",
+      password: hashPassword("siti123"),
       nama: "Siti Aminah",
       role: "anggota",
       nomorAnggota: "A-0002",
@@ -50,7 +51,7 @@ function seed(): Store {
     {
       id: "u-andi",
       username: "andi",
-      password: "andi123",
+      password: hashPassword("andi123"),
       nama: "Andi Wijaya",
       role: "anggota",
       nomorAnggota: "A-0003",
@@ -159,7 +160,7 @@ export function tambahAnggota(input: {
   const user: User = {
     id: genId("u"),
     username: input.username,
-    password: input.password,
+    password: hashPassword(input.password),
     nama: input.nama,
     role: "anggota",
     nomorAnggota: nomor,

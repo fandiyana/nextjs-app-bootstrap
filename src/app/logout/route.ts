@@ -8,7 +8,9 @@ export async function POST(request: Request) {
 }
 
 export async function GET(request: Request) {
-  logout();
+  // Do NOT destroy the session on GET to avoid CSRF-based forced logout
+  // (cross-origin <img>/<link rel="prefetch"> could otherwise log users out).
+  // The app's UI uses POST via a form in AppShell.
   const url = new URL("/login", request.url);
   return NextResponse.redirect(url, { status: 303 });
 }

@@ -1,6 +1,7 @@
 import { randomBytes } from "crypto";
 import { cookies } from "next/headers";
 import { redirect } from "next/navigation";
+import { verifyPassword } from "./password";
 import {
   createSession,
   destroySession,
@@ -18,7 +19,7 @@ function generateToken(): string {
 
 export function login(username: string, password: string): User | null {
   const user = findUserByUsername(username);
-  if (!user || user.password !== password) return null;
+  if (!user || !verifyPassword(user.password, password)) return null;
   const token = generateToken();
   createSession(user.id, token);
   cookies().set(SESSION_COOKIE, token, {
