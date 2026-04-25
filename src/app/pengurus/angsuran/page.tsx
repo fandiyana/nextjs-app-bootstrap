@@ -33,6 +33,9 @@ export default function PengurusAngsuranPage({
     if (!p) {
       redirect("/pengurus/angsuran?error=pinjaman_tidak_valid");
     }
+    if (p.status !== "aktif") {
+      redirect("/pengurus/angsuran?error=pinjaman_sudah_lunas");
+    }
     if (!Number.isFinite(jumlah) || jumlah <= 0) {
       redirect("/pengurus/angsuran?error=jumlah_tidak_valid");
     }
@@ -63,7 +66,7 @@ export default function PengurusAngsuranPage({
       )}
       {searchParams?.error && (
         <div className="mb-4 rounded border border-red-200 bg-red-50 px-3 py-2 text-sm text-red-700">
-          Gagal: {decodeURIComponent(searchParams.error)}
+          Gagal: {searchParams.error}
         </div>
       )}
 

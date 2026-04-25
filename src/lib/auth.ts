@@ -1,14 +1,27 @@
+import { randomBytes } from "crypto";
 import { cookies } from "next/headers";
 import { redirect } from "next/navigation";
-import { findUserById, findUserByUsername } from "./store";
+import {
+  createSession,
+  destroySession,
+  findUserById,
+  findUserByUsername,
+  getUserIdBySession,
+} from "./store";
 import type { Role, User } from "./types";
 
 const SESSION_COOKIE = "koperasi_session";
 
+function generateToken(): string {
+  return randomBytes(32).toString("hex");
+}
+
 export function login(username: string, password: string): User | null {
   const user = findUserByUsername(username);
   if (!user || user.password !== password) return null;
-  cookies().set(SESSION_COOKIE, user.id, {
+  const token = generateToken();
+  createSession(user.id, token);
+  cookies().set(SESSION_COOKIE, token, {
     httpOnly: true,
     sameSite: "lax",
     path: "/",
@@ -18,13 +31,17 @@ export function login(username: string, password: string): User | null {
 }
 
 export function logout(): void {
+  const token = cookies().get(SESSION_COOKIE)?.value;
+  if (token) destroySession(token);
   cookies().delete(SESSION_COOKIE);
 }
 
 export function getCurrentUser(): User | null {
-  const id = cookies().get(SESSION_COOKIE)?.value;
-  if (!id) return null;
-  return findUserById(id) ?? null;
+  const token = cookies().get(SESSION_COOKIE)?.value;
+  if (!token) return null;
+  const userId = getUserIdBySession(token);
+  if (!userId) return null;
+  return findUserById(userId) ?? null;
 }
 
 export function requireUser(): User {

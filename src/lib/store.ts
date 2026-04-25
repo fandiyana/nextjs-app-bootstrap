@@ -11,6 +11,7 @@ type Store = {
   simpanan: Simpanan[];
   pinjaman: Pinjaman[];
   angsuran: Angsuran[];
+  sessions: Map<string, string>;
 };
 
 const globalForStore = globalThis as unknown as { __koperasiStore?: Store };
@@ -103,7 +104,7 @@ function seed(): Store {
     { id: "a-3", pinjamanId: "p-2", jumlah: 545000, tanggal: "2024-04-25", keterangan: "Angsuran ke-1" },
   ];
 
-  return { users, simpanan, pinjaman, angsuran };
+  return { users, simpanan, pinjaman, angsuran, sessions: new Map() };
 }
 
 export function getStore(): Store {
@@ -111,6 +112,19 @@ export function getStore(): Store {
     globalForStore.__koperasiStore = seed();
   }
   return globalForStore.__koperasiStore;
+}
+
+// ---------- Sessions ----------
+export function createSession(userId: string, token: string): void {
+  getStore().sessions.set(token, userId);
+}
+
+export function getUserIdBySession(token: string): string | undefined {
+  return getStore().sessions.get(token);
+}
+
+export function destroySession(token: string): void {
+  getStore().sessions.delete(token);
 }
 
 function genId(prefix: string): string {
