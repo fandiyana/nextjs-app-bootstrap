@@ -1,5 +1,5 @@
 "use client";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 type Wish = {
   id: string;
@@ -12,15 +12,13 @@ type Wish = {
 const STORAGE_KEY = "fc-wishes";
 
 export default function Wishes() {
-  const [wishes, setWishes] = useState<Wish[]>(() => {
-    if (typeof window === "undefined") return [];
+  const [wishes, setWishes] = useState<Wish[]>([]);
+  useEffect(() => {
     try {
       const raw = localStorage.getItem(STORAGE_KEY);
-      return raw ? (JSON.parse(raw) as Wish[]) : [];
-    } catch {
-      return [];
-    }
-  });
+      if (raw) setWishes(JSON.parse(raw) as Wish[]);
+    } catch {}
+  }, []);
   const [name, setName] = useState("");
   const [message, setMessage] = useState("");
   const [attendance, setAttendance] = useState<Wish["attendance"]>("hadir");
