@@ -75,10 +75,7 @@ function EventCard({
       {note && (
         <div className="mt-5 text-[14px] text-ink/90">
           <p className="font-bold">Note:</p>
-          <p className="font-[family-name:var(--font-cormorant)]">
-            <span className="font-bold">Dress Code </span>
-            acara Akad warna Putih
-          </p>
+          <p className="font-[family-name:var(--font-cormorant)]">{note}</p>
         </div>
       )}
     </div>

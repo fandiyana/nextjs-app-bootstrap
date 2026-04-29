@@ -16,11 +16,15 @@
   --color-muted: var(--muted);
   --color-taupe: var(--taupe);
   --color-taupe-dark: var(--taupe-dark);
-  --font-script: var(--font-pinyon);
-  --font-script-2: var(--font-alex);
-  --font-serif: var(--font-cormorant);
-  --font-display: var(--font-prata);
-  --font-sans: var(--font-poppins);
+}
+
+:root {
+  --font-pinyon: "Pinyon Script", cursive;
+  --font-alex: "Alex Brush", cursive;
+  --font-cormorant: "Cormorant Infant", serif;
+  --font-prata: "Prata", serif;
+  --font-poppins: "Poppins", system-ui, sans-serif;
+  --font-amiri: "Amiri", serif;
 }
 
 html, body {

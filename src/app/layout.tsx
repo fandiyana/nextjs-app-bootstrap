@@ -1,55 +1,5 @@
 import type { Metadata, Viewport } from "next";
-import {
-  Pinyon_Script,
-  Alex_Brush,
-  Cormorant_Infant,
-  Prata,
-  Poppins,
-  Amiri,
-} from "next/font/google";
 import "./globals.css";
-
-const pinyon = Pinyon_Script({
-  weight: "400",
-  subsets: ["latin"],
-  variable: "--font-pinyon",
-  display: "swap",
-});
-
-const alex = Alex_Brush({
-  weight: "400",
-  subsets: ["latin"],
-  variable: "--font-alex",
-  display: "swap",
-});
-
-const cormorant = Cormorant_Infant({
-  weight: ["400", "500", "600", "700"],
-  subsets: ["latin"],
-  variable: "--font-cormorant",
-  display: "swap",
-});
-
-const prata = Prata({
-  weight: "400",
-  subsets: ["latin"],
-  variable: "--font-prata",
-  display: "swap",
-});
-
-const poppins = Poppins({
-  weight: ["300", "400", "500", "600", "700"],
-  subsets: ["latin"],
-  variable: "--font-poppins",
-  display: "swap",
-});
-
-const amiri = Amiri({
-  weight: ["400", "700"],
-  subsets: ["arabic"],
-  variable: "--font-amiri",
-  display: "swap",
-});
 
 export const metadata: Metadata = {
   title: "The Wedding of Fandi & Chery — 07.06.2026",
@@ -74,10 +24,19 @@ export default function RootLayout({
   children,
 }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html
-      lang="id"
-      className={`${pinyon.variable} ${alex.variable} ${cormorant.variable} ${prata.variable} ${poppins.variable} ${amiri.variable}`}
-    >
+    <html lang="id">
+      <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link
+          rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossOrigin="anonymous"
+        />
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Alex+Brush&family=Amiri:wght@400;700&family=Cormorant+Infant:wght@400;500;600;700&family=Pinyon+Script&family=Poppins:wght@300;400;500;600;700&family=Prata&display=swap"
+        />
+      </head>
       <body>{children}</body>
     </html>
   );
