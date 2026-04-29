@@ -1,0 +1,286 @@
+<!doctype html>
+<html lang="en-US" prefix="og: https://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	        <style type="text/css">
+            .cui-comment-text img {
+                max-width: 100% !important;
+            }
+        </style>
+        	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+<!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
+<title>Page Not Found - Memonika</title>
+<meta name="robots" content="follow, noindex"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Page Not Found - Memonika" />
+<meta property="og:site_name" content="Memonika" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Page Not Found - Memonika" />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://by.memonika.com/#person","name":"Memonika"},{"@type":"WebSite","@id":"https://by.memonika.com/#website","url":"https://by.memonika.com","name":"Memonika","publisher":{"@id":"https://by.memonika.com/#person"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"#webpage","url":"","name":"Page Not Found - Memonika","isPartOf":{"@id":"https://by.memonika.com/#website"},"inLanguage":"en-US"}]}</script>
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel='dns-prefetch' href='//unpkg.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//ejg4fbqxdgz.exactdn.com' />
+<link rel='preconnect' href='//ejg4fbqxdgz.exactdn.com' />
+<link rel="alternate" type="application/rss+xml" title="Memonika &raquo; Feed" href="https://by.memonika.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Memonika &raquo; Comments Feed" href="https://by.memonika.com/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/ejg4fbqxdgz.exactdn.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.3"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<link rel='stylesheet' id='bdt-uikit-css' href='https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/weddingpress/assets/css/modules/bdt-uikit.css?ver=3.15.1' media='all' />
+<link rel='stylesheet' id='ep-helper-css' href='https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/weddingpress/assets/css/modules/ep-helper.css?ver=3.2.1.1' media='all' />
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:root { --wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1200px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='eltemplate-css' href='https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/eltemplate/public/css/eltemplate-public.css?ver=2.0.0' media='all' />
+<link rel='stylesheet' id='uaf_client_css-css' href='https://ejg4fbqxdgz.exactdn.com/wp-content/uploads/useanyfont/uaf.css?ver=1767780440' media='all' />
+<link rel='stylesheet' id='exad-main-style-css' href='https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/weddingpress/assets/css/exad-styles.min.css?m=1754471416' media='all' />
+<link rel='stylesheet' id='cui_style-css' href='https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/weddingpress/addons/comment-kit2//css/cui_style.css?ver=1.0.0' media='screen' />
+<style id='cui_style-inline-css'>
+
+		.cui-wrapper {
+		  font-size: 14px
+		}
+	.cui-post-author {
+	color: white !important;
+	background: #777 !important;
+}
+	.cui-wrapper ul.cui-container-comments li.cui-item-comment .cui-comment-avatar img {
+		max-width: 28px;
+		max-height: 28px;
+	}
+	.cui-wrapper ul.cui-container-comments li.cui-item-comment .cui-comment-content {
+		margin-left: 38px;
+	}
+	.cui-wrapper ul.cui-container-comments li.cui-item-comment ul .cui-comment-avatar img {
+		max-width: 24px;
+		max-height: 24px;
+	}
+	.cui-wrapper ul.cui-container-comments li.cui-item-comment ul ul .cui-comment-avatar img {
+		max-width: 21px;
+		max-height: 21px;
+	}
+    .cui_comment_count_card.cui_card-tidak_hadir {
+    background-color: #d90a11;
+    }
+    .cui_comment_count_card.cui_card-hadir {
+    background-color: #3D9A62;
+    }
+    .cui_comment_count_card.cui_card-masih_ragu {
+    background-color: #d7a916;
+    }
+	
+</style>
+<link rel='stylesheet' id='wdp-icon-css' href='https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/weddingpress/assets/css/new-icon.min.css?ver=3.2.1.1' media='all' />
+<link rel='stylesheet' id='hello-elementor-css' href='https://ejg4fbqxdgz.exactdn.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://ejg4fbqxdgz.exactdn.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.4' media='all' />
+<link rel='stylesheet' id='hello-elementor-header-footer-css' href='https://ejg4fbqxdgz.exactdn.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.4' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.28.4' media='all' />
+<link rel='stylesheet' id='elementor-post-13-css' href='https://ejg4fbqxdgz.exactdn.com/wp-content/uploads/elementor/css/post-13.css?ver=1777090857' media='all' />
+<link rel='stylesheet' id='eltemplate-frontend-css' href='https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/eltemplate/includes/widgets/css/frontend.css?ver=1' media='all' />
+<link rel='stylesheet' id='weddingpress-wdp-css' href='https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/weddingpress/assets/css/wdp.css?ver=3.2.1.1' media='all' />
+<link rel='stylesheet' id='kirim-kit-css' href='https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/weddingpress/assets/css/guest-book.css?ver=3.2.1.1' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css' href='https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.28.4' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css' href='https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.28.4' media='all' />
+<link rel='stylesheet' id='ekit-widget-styles-css' href='https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.9.2' media='all' />
+<link rel='stylesheet' id='ekit-responsive-css' href='https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.9.2' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-roboto-css' href='https://ejg4fbqxdgz.exactdn.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1754471666' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='https://ejg4fbqxdgz.exactdn.com/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1754471667' media='all' />
+<script type='text/javascript'>
+		var elementskit = {
+			resturl: 'https://by.memonika.com/wp-json/elementskit/v1/',
+		}
+
+		</script><script src="https://ejg4fbqxdgz.exactdn.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://ejg4fbqxdgz.exactdn.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/eltemplate/public/js/eltemplate-public.js?ver=2.0.0" id="eltemplate-js"></script>
+<script src="https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.28.4" id="font-awesome-4-shim-js"></script>
+<link rel="https://api.w.org/" href="https://by.memonika.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://by.memonika.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.3" />
+<meta name="format-detection" content="telephone=no">
+<meta name=”color-scheme” content=”light dark”>
+<meta name="google" content="notranslate"/><meta name="generator" content="Elementor 3.28.4; features: e_font_icon_svg, additional_custom_breakpoints, e_local_google_fonts, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<meta name=”color-scheme” content=”light dark”>
+<meta name="format-detection" content="telephone=no">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<noscript><style>.lazyload[data-src]{display:none !important;}</style></noscript><style>.lazyload{background-image:none !important;}.lazyload:before{background-image:none !important;}</style><script>
+const wdpAudio = document.body.contains(document.getElementById('song'))?document.getElementById('song'):false;
+document.addEventListener("visibilitychange", event => {
+  if (document.visibilityState === "visible") {
+    wdpAudio && wdpAudio.play();
+  } else {
+    wdpAudio && wdpAudio.pause();
+  }
+})
+</script><meta name=”color-scheme” content=”light dark”><link rel="icon" href="https://ejg4fbqxdgz.exactdn.com/wp-content/uploads/2025/08/cropped-Logo-Memonika.png?strip=all&#038;resize=32%2C32" sizes="32x32" />
+<link rel="icon" href="https://ejg4fbqxdgz.exactdn.com/wp-content/uploads/2025/08/cropped-Logo-Memonika.png?strip=all&#038;resize=192%2C192" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://ejg4fbqxdgz.exactdn.com/wp-content/uploads/2025/08/cropped-Logo-Memonika.png?strip=all&#038;resize=180%2C180" />
+<meta name="msapplication-TileImage" content="https://ejg4fbqxdgz.exactdn.com/wp-content/uploads/2025/08/cropped-Logo-Memonika.png?strip=all&#038;resize=270%2C270" />
+</head>
+<body class="error404 wp-embed-responsive wp-theme-hello-elementor hello-elementor-default elementor-default elementor-kit-13">
+
+
+<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+<header id="site-header" class="site-header dynamic-header ">
+	<div class="header-inner">
+		<div class="site-branding show-title">
+							<div class="site-title show">
+					<a href="https://by.memonika.com/" title="Home" rel="home">
+						Memonika					</a>
+				</div>
+							<p class="site-description show">
+					Digital Wedding Invitation				</p>
+					</div>
+
+					</div>
+</header>
+<main id="content" class="site-main">
+
+			<div class="page-header">
+			<h1 class="entry-title">The page can&rsquo;t be found.</h1>
+		</div>
+	
+	<div class="page-content">
+		<p>It looks like nothing was found at this location.</p>
+	</div>
+
+</main>
+<footer id="site-footer" class="site-footer dynamic-footer footer-has-copyright">
+	<div class="footer-inner">
+		<div class="site-branding show-logo">
+							<p class="site-description show">
+					Digital Wedding Invitation				</p>
+					</div>
+
+		
+					<div class="copyright show">
+				<p>All rights reserved</p>
+			</div>
+			</div>
+</footer>
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/hello-elementor\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+        <script defer="" src="data:text/javascript;base64,ZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcigiRE9NQ29udGVudExvYWRlZCIsIGZ1bmN0aW9uKCkgewogICAgLy8gTWVtYXN0aWthbiBoYWxhbWFuIHNlbGFsdSBkaW11YXQgZGFyaSBhdGFzIHRhbnBhIGFuaW1hc2kKICAgIHdpbmRvdy5zY3JvbGxUbygwLCAwKTsKCiAgICAvLyBNZW5hbWJhaGthbiBtZXRhIHRhZyBrZSBoZWFkCiAgICBjb25zdCBtZXRhVmlld3BvcnQgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdtZXRhJyk7CiAgICBtZXRhVmlld3BvcnQubmFtZSA9ICJ2aWV3cG9ydCI7CiAgICBtZXRhVmlld3BvcnQuY29udGVudCA9ICJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MS4wLCBtYXhpbXVtLXNjYWxlPTEuMCwgdXNlci1zY2FsYWJsZT1ubyI7CiAgICBkb2N1bWVudC5oZWFkLmFwcGVuZENoaWxkKG1ldGFWaWV3cG9ydCk7CgogICAgY29uc3QgdG9tYm9sQ292ZXIgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgiZWx0ZW1wbGF0ZS1idG5Db3ZlciIpOwoKICAgIC8vIENlayBhcGFrYWggZWxlbWVuIHRvbWJvbC1idWthIGFkYQogICAgaWYgKHRvbWJvbENvdmVyKSB7CiAgICAgICAgZGlzYWJsZVNjcm9sbGluZygpOwogICAgICAgIGRvY3VtZW50LmJvZHkuc3R5bGUub3ZlcmZsb3dZID0gImhpZGRlbiI7CiAgICAgICAgZG9jdW1lbnQuYm9keS5zdHlsZS5oZWlnaHQgPSAiMTAwdmgiOyAvLyBQZXJiYWlrYW4gdHlwbzogaGVpZ3RoIC0+IGhlaWdodAoKICAgICAgICB0b21ib2xDb3Zlci5vbmNsaWNrID0gZnVuY3Rpb24oKSB7CiAgICAgICAgICAgIG15RnVuY3Rpb24oKTsKICAgICAgICB9OwogICAgfQoKICAgIGNvbnN0IHdkcEF1ZGlvID0gZG9jdW1lbnQuYm9keS5jb250YWlucyhkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnc29uZycpKSA/IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdzb25nJykgOiBmYWxzZTsKICAgIGRvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoInZpc2liaWxpdHljaGFuZ2UiLCBldmVudCA9PiB7CiAgICAgICAgaWYgKGRvY3VtZW50LnZpc2liaWxpdHlTdGF0ZSA9PT0gInZpc2libGUiKSB7CiAgICAgICAgICAgIHdkcEF1ZGlvICYmIHdkcEF1ZGlvLnBsYXkoKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICB3ZHBBdWRpbyAmJiB3ZHBBdWRpby5wYXVzZSgpOwogICAgICAgIH0KICAgIH0pOwoKICAgIC8vIEZ1bmdzaSB1bnR1ayBtZW5vbmFrdGlma2FuIHNjcm9sbGluZwogICAgZnVuY3Rpb24gZGlzYWJsZVNjcm9sbGluZygpIHsKICAgICAgICB2YXIgeCA9IHdpbmRvdy5zY3JvbGxYOwogICAgICAgIHZhciB5ID0gd2luZG93LnNjcm9sbFk7CiAgICAgICAgd2luZG93Lm9uc2Nyb2xsID0gZnVuY3Rpb24oKSB7CiAgICAgICAgICAgIHdpbmRvdy5zY3JvbGxUbyh4LCB5KTsKICAgICAgICB9OwogICAgfQoKICAgIC8vIEZ1bmdzaSB1bnR1ayBtZW5nYWt0aWZrYW4gc2Nyb2xsaW5nCiAgICBmdW5jdGlvbiBlbmFibGVTY3JvbGxpbmcoKSB7CiAgICAgICAgd2luZG93Lm9uc2Nyb2xsID0gZnVuY3Rpb24oKSB7fTsKICAgIH0KCiAgICAvLyBGdW5nc2kgdW50dWsgbWVtdXRhciBhdWRpbwogICAgZnVuY3Rpb24gcGxheUF1ZGlvKCkgewogICAgICAgIGNvbnN0IHggPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgic29uZyIpOwogICAgICAgIGlmICh4KSB7CiAgICAgICAgICAgIHgucGxheSgpOwogICAgICAgIH0KICAgIH0KCiAgICAvLyBGdW5nc2kgdW50dWsgbWVuZ2hlbnRpa2FuIGF1ZGlvCiAgICBmdW5jdGlvbiBwYXVzZUF1ZGlvKCkgewogICAgICAgIGNvbnN0IHggPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgic29uZyIpOwogICAgICAgIGlmICh4KSB7CiAgICAgICAgICAgIHgucGF1c2UoKTsKICAgICAgICB9CiAgICB9CgogICAgLy8gRnVuZ3NpIHVudHVrIGRpamFsYW5rYW4gc2FhdCB0b21ib2wgZGlrbGlrCiAgICBmdW5jdGlvbiBteUZ1bmN0aW9uKCkgewogICAgICAgIGRvY3VtZW50LmJvZHkuc3R5bGUub3ZlcmZsb3dZID0gInVuc2V0IjsKICAgICAgICB0b21ib2xDb3Zlci5zdHlsZS52aXNpYmlsaXR5ID0gImhpZGRlbiI7CiAgICAgICAgZW5hYmxlU2Nyb2xsaW5nKCk7CiAgICAgICAgcGxheUF1ZGlvKCk7CiAgICB9CgogICAgLy8galF1ZXJ5IHVudHVrIGVmZWsgZmFkZQogICAgalF1ZXJ5KGZ1bmN0aW9uKCQpIHsKICAgICAgICAkKCcjZWx0ZW1wbGF0ZS1idG5Db3ZlcicpLmNsaWNrKGZ1bmN0aW9uKCkgewogICAgICAgICAgICAkKHRoaXMpLnBhcmVudHMoJyNlbHRlbXBsYXRlLWNvdmVyJykuZmFkZU91dCg1MDApOwogICAgICAgIH0pOwogICAgfSk7Cn0pOwoKdmFyIGVsYnRuQW1wbG9wID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoImVsdGVtcGxhdGUtYnRuQW1wbG9wIik7CnZhciBlbGFtcGxvcCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJlbHRlbXBsYXRlLWFtcGxvcCIpOwoKZWxidG5BbXBsb3Aub25jbGljayA9IGZ1bmN0aW9uKCkgewogICAgaWYgKGVsYW1wbG9wLnN0eWxlLmRpc3BsYXkgPT09ICJibG9jayIpIHsKICAgICAgICBlbGFtcGxvcC5zdHlsZS5kaXNwbGF5ID0gIm5vbmUiOwogICAgfSBlbHNlIHsKICAgICAgICBlbGFtcGxvcC5zdHlsZS5kaXNwbGF5ID0gImJsb2NrIjsKICAgIH0KfTs=">
+        </script>
+        <style>
+        @import url("data:text/css;base64,LyoqCiAqIEFsbCBvZiB0aGUgQ1NTIGZvciB5b3VyIHB1YmxpYy1mYWNpbmcgZnVuY3Rpb25hbGl0eSBzaG91bGQgYmUKICogaW5jbHVkZWQgaW4gdGhpcyBmaWxlLgogKi8KICAvKiBVbnR1ayBkZXNrdG9wICovCiNkZXNrX2NvdiB7CiAgICBwb3NpdGlvbjogZml4ZWQ7ICAKICAgIGxlZnQ6IDA7ICAKICAgIHRvcDogMDsgIAogICAgd2lkdGg6IGNhbGMoMTAwJSAtIDUwMHB4KTsgIAogICAgaGVpZ2h0OiAxMDB2aDsgIAogICAgb3ZlcmZsb3c6IGhpZGRlbjsgCn0KCiNpc2kgewogICAgbWFyZ2luLWxlZnQ6IGNhbGMoMTAwJSAtIDUwMHB4KTsgIAogICAgd2lkdGg6IDUwMHB4OyAKfQoKLmFqYWliZml4ZWQgLmVsZW1lbnRvci1iYWNrZ3JvdW5kLW92ZXJsYXkgewogICAgcG9zaXRpb246IGZpeGVkICFpbXBvcnRhbnQ7IAogICAgdG9wOiAwIWltcG9ydGFudDsKICAgIGxlZnQ6IGNhbGMoMTAwJSAtIDUwMHB4KSFpbXBvcnRhbnQ7CiAgICB3aWR0aDogNTAwcHghaW1wb3J0YW50OwogICAgcG9pbnRlci1ldmVudHM6bm9uZTsKfQouYWphaWJmaXhlZEMgLmVsZW1lbnRvci1iYWNrZ3JvdW5kLW92ZXJsYXksIC5hamFpYmZpeGVkQzo6YmVmb3JlIHsKICAgIHBvc2l0aW9uOiBmaXhlZCAhaW1wb3J0YW50OyAKICAgIHRvcDogMCFpbXBvcnRhbnQ7CiAgICBsZWZ0OiBjYWxjKDEwMCUgLSA1MDBweCkhaW1wb3J0YW50OwogICAgd2lkdGg6IDUwMHB4IWltcG9ydGFudDsKICAgIHBvaW50ZXItZXZlbnRzOm5vbmU7Cn0KCkBtZWRpYSAobWF4LXdpZHRoOiA1MDBweCkgewogICAgI2Rlc2tfY292IHsKICAgICAgICBkaXNwbGF5OiBub25lOyAKICAgIH0KfQoKQG1lZGlhIChtYXgtd2lkdGg6IDkwMHB4KSBhbmQgKG1pbi13aWR0aDo3NjhweCkgewogICAgI2Rlc2tfY292IHsKICAgICAgICB3aWR0aDogNTAlOyAKICAgIH0KCiAgICAjaXNpIHsKICAgICAgICBtYXJnaW4tbGVmdDogNTAlOyAKICAgICAgICB3aWR0aDogNTAlOyAKICAgIH0KICAgIC5hamFpYmZpeGVkIC5lbGVtZW50b3ItYmFja2dyb3VuZC1vdmVybGF5IHsKICAgICAgICBsZWZ0OiA1MCUhaW1wb3J0YW50OwogICAgICAgIHdpZHRoOiA1MCUhaW1wb3J0YW50OwogICAgfSAgICAKICAgIC5hamFpYmZpeGVkQyAuZWxlbWVudG9yLWJhY2tncm91bmQtb3ZlcmxheSwgLmFqYWliZml4ZWRDOjpiZWZvcmUgewogICAgICAgIGxlZnQ6IDUwJSFpbXBvcnRhbnQ7CiAgICAgICAgd2lkdGg6IDUwJSFpbXBvcnRhbnQ7CiAgICB9Cn0KQG1lZGlhIChtYXgtd2lkdGg6IDc2OHB4KSB7CiAgICAjZGVza19jb3YgewogICAgICAgIGRpc3BsYXk6IG5vbmU7IAogICAgfQoKICAgICNpc2kgewogICAgICAgIG1hcmdpbi1sZWZ0OiBhdXRvOwogICAgICAgIG1hcmdpbi1yaWdodDogYXV0bzsKICAgICAgICB3aWR0aDogMTAwJTsKICAgIH0KICAgIC5hamFpYmZpeGVkIC5lbGVtZW50b3ItYmFja2dyb3VuZC1vdmVybGF5IHsKICAgICAgICAvKiBBdHVyIHVsYW5nIHByb3BlcnRpIHVudHVrIHNlc3VhaSBkZW5nYW4gYXR1cmFuICNpc2kgcGFkYSB1a3VyYW4gbGF5YXIgaW5pICovCiAgICAgICAgbGVmdDogMCFpbXBvcnRhbnQ7CiAgICAgICAgd2lkdGg6IDEwMCUgIWltcG9ydGFudDsgLyogU2VzdWFpIGRlbmdhbiBsZWJhciAjaXNpIHBhZGEgYnJlYWtwb2ludCBpbmkgKi8KICAgIH0KICAgIC5hamFpYmZpeGVkQyAuZWxlbWVudG9yLWJhY2tncm91bmQtb3ZlcmxheSwgLmFqYWliZml4ZWRDOjpiZWZvcmUgewogICAgICAgIC8qIEF0dXIgdWxhbmcgcHJvcGVydGkgdW50dWsgc2VzdWFpIGRlbmdhbiBhdHVyYW4gI2lzaSBwYWRhIHVrdXJhbiBsYXlhciBpbmkgKi8KICAgICAgICBsZWZ0OiAwIWltcG9ydGFudDsKICAgICAgICB3aWR0aDogMTAwJSAhaW1wb3J0YW50OyAvKiBTZXN1YWkgZGVuZ2FuIGxlYmFyICNpc2kgcGFkYSBicmVha3BvaW50IGluaSAqLwogICAgfQp9Cgpib2R5ewogICAgb3ZlcmZsb3cteDogaGlkZGVuICFpbXBvcnRhbnQ7Cn0KaHRtbCB7CiAgc2Nyb2xsLWJlaGF2aW9yOiBhdXRvICFpbXBvcnRhbnQ7IC8qIE5vbmFrdGlma2FuIHNtb290aCBzY3JvbGxpbmcgKi8KfQpAbWVkaWEgKG1pbi13aWR0aDogOTkwcHgpIHsKOjotd2Via2l0LXNjcm9sbGJhciB7CiAgd2lkdGg6IDEwcHg7Cn0KCjo6LXdlYmtpdC1zY3JvbGxiYXItdHJhY2sgewogIGJhY2tncm91bmQtY29sb3I6IHRyYW5zcGFyZW50Owp9Cgo6Oi13ZWJraXQtc2Nyb2xsYmFyLXRodW1iIHsKICBiYWNrZ3JvdW5kLWNvbG9yOiAjZDZkZWUxOwogIGJvcmRlci1yYWRpdXM6IDIwcHg7CiAgYm9yZGVyOiAycHggc29saWQgdHJhbnNwYXJlbnQ7CiAgYmFja2dyb3VuZC1jbGlwOiBjb250ZW50LWJveDsKfQoKOjotd2Via2l0LXNjcm9sbGJhci10aHVtYjpob3ZlciB7CiAgYmFja2dyb3VuZC1jb2xvcjogI2E4YmJiZjsKfQp9CgojZWx0ZW1wbGF0ZS1hbXBsb3B7CiAgICBkaXNwbGF5OiBub25lOwp9CgojZWx0ZW1wbGF0ZS1idG5Db3ZlciwgI2VsdGVtcGxhdGUtYnRuQW1wbG9wewpjdXJzb3I6IHBvaW50ZXI7Cn0=");
+        </style><script>
+const wdpAudio = document.body.contains(document.getElementById('song'))?document.getElementById('song'):false;
+document.addEventListener("visibilitychange", event => {
+  if (document.visibilityState === "visible") {
+    wdpAudio && wdpAudio.play();
+  } else {
+    wdpAudio && wdpAudio.pause();
+  }
+})
+</script>			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<script id="eio-lazy-load-js-before">
+var eio_lazy_vars = {"exactdn_domain":"ejg4fbqxdgz.exactdn.com","skip_autoscale":0,"bg_min_dpr":1.1,"threshold":0,"use_dpr":1};
+</script>
+<script src="https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/ewww-image-optimizer/includes/lazysizes.min.js?ver=850" id="eio-lazy-load-js" async data-wp-strategy="async"></script>
+<script src="https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.9.2" id="ekit-widget-scripts-js"></script>
+<script src="https://ejg4fbqxdgz.exactdn.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script src="https://ejg4fbqxdgz.exactdn.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script src="https://ejg4fbqxdgz.exactdn.com/wp-includes/js/dist/vendor/react.min.js?ver=18.3.1.1" id="react-js"></script>
+<script src="https://ejg4fbqxdgz.exactdn.com/wp-includes/js/dist/vendor/react-dom.min.js?ver=18.3.1.1" id="react-dom-js"></script>
+<script src="https://ejg4fbqxdgz.exactdn.com/wp-includes/js/dist/escape-html.min.js?ver=6561a406d2d232a6fbd2" id="wp-escape-html-js"></script>
+<script src="https://ejg4fbqxdgz.exactdn.com/wp-includes/js/dist/element.min.js?ver=a4eeeadd23c0d7ab1d2d" id="wp-element-js"></script>
+<script id="eltemplate-script-js-extra">
+var _eltemplateobject = {"ajaxurl":"https:\/\/by.memonika.com\/wp-admin\/admin-ajax.php","home_url":"https:\/\/by.memonika.com","site_url":"https:\/\/by.memonika.com","site_title":"Memonika","code_nonce":"a3da0a69c9","member_area":"https:\/\/member.eltemplate.vip\/","nonce_key":"_eltemplate_nonce","_eltemplate_nonce":"9caa320707","is_admin":"","page":"eltemplate-license"};
+</script>
+<script src="https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/eltemplate/admin/js/license.min.js?ver=2.0.0" id="eltemplate-script-js"></script>
+<script id="page-scroll-to-id-plugin-script-js-extra">
+var mPS2id_params = {"instances":{"mPS2id_instance_0":{"selector":"a[href*='#']:not([href='#'])","autoSelectorMenuLinks":"true","excludeSelector":"a[href^='#tab-'], a[href^='#tabs-'], a[data-toggle]:not([data-toggle='tooltip']), a[data-slide], a[data-vc-tabs], a[data-vc-accordion], a.screen-reader-text.skip-link","scrollSpeed":2500,"autoScrollSpeed":"true","scrollEasing":"easeInOutCubic","scrollingEasing":"easeInOutCubic","forceScrollEasing":"false","pageEndSmoothScroll":"true","stopScrollOnUserAction":"false","autoCorrectScroll":"false","autoCorrectScrollExtend":"false","layout":"vertical","offset":0,"dummyOffset":"false","highlightSelector":"","clickedClass":"mPS2id-clicked","targetClass":"mPS2id-target","highlightClass":"mPS2id-highlight","forceSingleHighlight":"false","keepHighlightUntilNext":"false","highlightByNextTarget":"false","appendHash":"false","scrollToHash":"true","scrollToHashForAll":"true","scrollToHashDelay":0,"scrollToHashUseElementData":"true","scrollToHashRemoveUrlHash":"false","disablePluginBelow":0,"adminDisplayWidgetsId":"true","adminTinyMCEbuttons":"true","unbindUnrelatedClickEvents":"false","unbindUnrelatedClickEventsSelector":"","normalizeAnchorPointTargets":"false","encodeLinks":"false"}},"total_instances":"1","shortcode_class":"_ps2id"};
+</script>
+<script src="https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/page-scroll-to-id/js/page-scroll-to-id.min.js?ver=1.7.9" id="page-scroll-to-id-plugin-script-js"></script>
+<script src="https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/weddingpress/assets/js/wdp-swiper.min.js?m=1754471416" id="wdp-swiper-js-js"></script>
+<script src="https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/weddingpress/assets/js/qr-code.js?m=1754471416" id="weddingpress-qr-js"></script>
+<script src="https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/weddingpress/assets/js/exad-scripts.min.js?ver=3.2.1.1" id="exad-main-script-js"></script>
+<script src="https://unpkg.com/qr-code-styling@1.5.0/lib/qr-code-styling.js" id="qr-code-styling-js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.0/xlsx.full.min.js" id="kirimkit-js"></script>
+<script id="cui_js_script-js-extra">
+var CUI_WP = {"ajaxurl":"https:\/\/by.memonika.com\/wp-admin\/admin-ajax.php","cuiNonce":"9f7ad7d186","jpages":"true","jPagesNum":"10","textCounter":"true","textCounterNum":"500","widthWrap":"","autoLoad":"true","thanksComment":"Thanks for your comment!","thanksReplyComment":"Thanks for answering the comment!","duplicateComment":"You might have left one of the fields blank, or duplicate comments","accept":"Accept","cancel":"Cancel","reply":"Reply","textWriteComment":"Ucapan","classPopularComment":"cui-popular-comment","textToDisplay":"Text to display","textCharacteresMin":"2 characters minimum","textNavNext":"Next","textNavPrev":"Previous","textMsgDeleteComment":"Do you want delete this comment?","textLoadMore":"Load more"};
+</script>
+<script src="https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/weddingpress/addons/comment-kit2//js/cui_script.js?ver=1.0.0" id="cui_js_script-js"></script>
+<script src="https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/weddingpress/addons/comment-kit2//js/libs/jquery.jPages.min.js?ver=0.7" id="cui_jPages-js"></script>
+<script src="https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/weddingpress/addons/comment-kit2//js/libs/jquery.textareaCounter.js?ver=2.0" id="cui_textCounter-js"></script>
+<script src="https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/weddingpress/addons/comment-kit2//js/libs/jquery.placeholder.min.js?ver=2.0.7" id="cui_placeholder-js"></script>
+<script src="https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/weddingpress/addons/comment-kit2//js/libs/autosize.min.js?ver=1.14" id="cui_autosize-js"></script>
+<script id="wdp-script-js-extra">
+var _wdpobject = {"ajaxurl":"https:\/\/by.memonika.com\/wp-admin\/admin-ajax.php","home_url":"https:\/\/by.memonika.com","site_url":"https:\/\/by.memonika.com","site_title":"Memonika","code_nonce":"a3da0a69c9","member_area":"https:\/\/akses.weddingpress.net\/","nonce_key":"_wdp_nonce","_wdp_nonce":"5c1a65b92c","is_admin":""};
+</script>
+<script src="https://ejg4fbqxdgz.exactdn.com/wp-content/plugins/weddingpress/assets/js/license.min.js?ver=3.2.1.1" id="wdp-script-js"></script>
+<script src="https://ejg4fbqxdgz.exactdn.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.4" id="hello-theme-frontend-js"></script>
+
+</body>
+</html>
