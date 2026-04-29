@@ -70,7 +70,7 @@ export default function Invitation() {
     <>
       <audio
         ref={audioRef}
-        src="https://cdn.pixabay.com/download/audio/2022/03/15/audio_5b22b71c69.mp3"
+        src="/music/wedding.mp3"
         loop
         preload="auto"
       />
@@ -117,7 +117,7 @@ function Footer() {
       </div>
       <p className="opacity-80">Designed with love by memonika.com</p>
       <p className="opacity-60 mt-1">
-        Music: Lagu Pernikahan Kita — Tiara Andini, Arsy Widianto
+        Music: Pachelbel&apos;s Canon in D — Internet Archive (CC BY-ND 3.0)
       </p>
     </footer>
   );
