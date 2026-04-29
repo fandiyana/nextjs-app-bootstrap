@@ -52,9 +52,10 @@ export default function WeddingInvitation() {
   }, [isPlaying]);
 
   const copyToClipboard = useCallback((text: string, label: string) => {
-    navigator.clipboard.writeText(text);
-    setCopySuccess(label);
-    setTimeout(() => setCopySuccess(""), 2000);
+    navigator.clipboard.writeText(text).then(() => {
+      setCopySuccess(label);
+      setTimeout(() => setCopySuccess(""), 2000);
+    }).catch(() => {});
   }, []);
 
   const handleSubmitWish = useCallback((e: React.FormEvent) => {
