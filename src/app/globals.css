@@ -1,0 +1,131 @@
+@import "tailwindcss";
+
+:root {
+  --bg-sand: #ddd1c0;
+  --bg-card: #f7f1e6;
+  --ink: #1a1a1a;
+  --muted: #6b6155;
+  --taupe: #9b8b76;
+  --taupe-dark: #7a6c5a;
+}
+
+@theme inline {
+  --color-sand: var(--bg-sand);
+  --color-card: var(--bg-card);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-taupe: var(--taupe);
+  --color-taupe-dark: var(--taupe-dark);
+}
+
+:root {
+  --font-pinyon: "Pinyon Script", cursive;
+  --font-alex: "Alex Brush", cursive;
+  --font-cormorant: "Cormorant Infant", serif;
+  --font-prata: "Prata", serif;
+  --font-poppins: "Poppins", system-ui, sans-serif;
+  --font-amiri: "Amiri", serif;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: #2b2925;
+  color: var(--ink);
+  font-family: var(--font-poppins), system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overscroll-behavior-y: none;
+}
+
+/* Mobile-first: constrain to phone width, center on larger screens with dark side panels */
+.phone-frame {
+  width: 100%;
+  max-width: 480px;
+  min-height: 100vh;
+  margin: 0 auto;
+  background: var(--bg-sand);
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 0 60px rgba(0, 0, 0, 0.4);
+}
+
+@media (min-width: 481px) {
+  body {
+    background: linear-gradient(135deg, #2b2925, #1a1816);
+  }
+}
+
+/* Prevent scroll while cover open */
+.no-scroll {
+  overflow: hidden;
+  height: 100vh;
+}
+
+/* Floral arch frame - the image is a complete frame with columns on sides,
+   flowers at top and bottom, and a clear center space for content. Stretching
+   to 100%/100% preserves the framing at any card height. */
+.arch-card {
+  position: relative;
+  background-color: #f7f1e6;
+  background-image: url("/images/panel-bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+  isolation: isolate;
+}
+.arch-card > * { position: relative; z-index: 1; }
+
+/* Full-bleed variant for cover and opening screens. */
+.arch-full {
+  background-color: #f7f1e6;
+  background-image: url("/images/panel-bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+}
+
+/* Smooth section reveal */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(24px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.reveal {
+  opacity: 0;
+}
+.reveal.in {
+  animation: fadeUp 0.9s ease forwards;
+}
+
+/* Spinning music icon when playing */
+@keyframes spin-slow {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.spin-slow {
+  animation: spin-slow 4s linear infinite;
+}
+
+/* Cover envelope flap fade */
+.cover-leave {
+  animation: coverOut 0.8s ease forwards;
+}
+@keyframes coverOut {
+  from { opacity: 1; transform: translateY(0); }
+  to { opacity: 0; transform: translateY(-100%); }
+}
+
+/* Scrollbar tweaks */
+.phone-frame::-webkit-scrollbar { width: 0; }
+
+/* Decorative divider heart */
+.heart-divider::before,
+.heart-divider::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: rgba(122, 108, 90, 0.4);
+}
