@@ -117,7 +117,7 @@ function Footer() {
       </div>
       <p className="opacity-80">Designed with love by memonika.com</p>
       <p className="opacity-60 mt-1">
-        Music: Pachelbel&apos;s Canon in D — Internet Archive (CC BY-ND 3.0)
+        Music: Romantic Piano — royalty-free (Internet Archive)
       </p>
     </footer>
   );
